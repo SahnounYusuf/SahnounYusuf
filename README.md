@@ -2,7 +2,7 @@
 <h2>👋 Hi there, I'm Sahnoun Yusuf</h2>
 
 <ul>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻</g-emoji> I’m a Back-end Python developer <g-emoji class="g-emoji" alias="rofl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f923.png">🤣</g-emoji></li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">💻</g-emoji> I’m a Back-end Python developer</li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">🤝</g-emoji> I want to exchange knowledge with others about different technologies </li>
 <li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji> Goals: Contribute more to Open Source projects</li>
 
