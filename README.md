@@ -1,4 +1,8 @@
 <h3> </h3>
+
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=SahnounYusuf.SahnounYusuf)
+[![Github](https://img.shields.io/github/followers/SahnounYusuf?label=Follow&style=social)](https://github.com/SahnounYusuf)
 <h2>Welcome to my playground</h2>
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
