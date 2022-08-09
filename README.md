@@ -11,14 +11,14 @@
 <br>
 <br>
 
-<summary>:zap: GitHub Stats</summary>
+<summary>🌟 GitHub Stats</summary>
 
   <!--<img align="left" alt="SahnounYusuf's GitHub Stats" src="" />-->
   [![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahnounYusuf&count_private=true&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   
   
-<summary>:zap: Top Languages</summary>
+<summary>💻 Top Languages</summary>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahnounYusuf&layout=compact&theme=nightowl&hide_border=true" />
 
