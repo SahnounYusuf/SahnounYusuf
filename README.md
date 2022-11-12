@@ -13,6 +13,11 @@
 <li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">✅</g-emoji> Goals: Dive deeper into this amazing world of IT</li>
 
 </ul>
+ 
+<div>
+ 
+![Snake animation](https://github.com/fabricius1/fabricius1/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <br>
 
