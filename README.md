@@ -45,8 +45,9 @@
 <h2>⚡ GitHub Stats</h2>
 <!-- [![SahnounYusuf's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahnounYusuf)](https://git.io/praveenscience) -->
 
-| ![SahnounYusuf's github stats](https://github-readme-stats.vercel.app/api?username=SahnounYusuf&show_icons=true&theme=tokyonight) | ![SahnounYusuf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahnounYusuf&theme=tokyonight) |
-| --- | --- |
+| ![SahnounYusuf's github stats](https://github-readme-stats.vercel.app/api?username=SahnounYusuf&show_icons=true&theme=tokyonight) | ![SahnounYusuf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahnounYusuf&theme=tokyonight) | 
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahnounYusuf&langs_count=8&theme=radical&layout=compact) | --- |
 <br>
 
   
