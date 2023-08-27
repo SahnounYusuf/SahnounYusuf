@@ -1,7 +1,3 @@
-<h3> </h3>
-
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=SahnounYusuf.SahnounYusuf)
 [![Github](https://img.shields.io/github/followers/SahnounYusuf?label=Follow&style=social)](https://github.com/SahnounYusuf)
 <h2>Welcome to my playground</h2>
 
@@ -14,10 +10,10 @@
 
 </ul>
  
-<div>
+<!--<div>
  
 ![Snake animation](https://github.com/fabricius1/fabricius1/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div>  -->
 
 <br>
 
@@ -45,10 +41,16 @@
 <h2>⚡ GitHub Stats</h2>
 <!-- [![SahnounYusuf's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahnounYusuf)](https://git.io/praveenscience) -->
 
-| ![SahnounYusuf's github stats](https://github-readme-stats.vercel.app/api?username=SahnounYusuf&show_icons=true&theme=tokyonight) | ![SahnounYusuf GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahnounYusuf&theme=tokyonight) | 
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahnounYusuf&langs_count=8&theme=radical&layout=compact) | --- |
-<br>
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SahnounYusuf&show_icons=true&theme=dark&card_width=250" />
+</a>
+<!-- <a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahnounYusuf&langs_count=8&theme=dark&hide_progress=true&card_width=300" />
+</a> -->
+
+<a href= "/">
+ <img height=200 padding-right="center" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahnounYusuf&theme=dark&card_width=500"/>
+</a>
 
   
  
