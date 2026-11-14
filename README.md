@@ -1,113 +1,36 @@
-[![Github](https://img.shields.io/github/followers/SahnounYusuf?label=Follow&style=social)](https://github.com/SahnounYusuf)
-<h2>Welcome to my playground</h2>
+### Hi, I'm Yusuf 👋
 
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+**Cloud & Platform Engineer** · MaibornWolff · Tunisia
 
-<ul>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🐍</g-emoji> I’m a Python Back-end  developer</li>
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">🤝</g-emoji> I want to exchange knowledge with others about different technologies </li>
-<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">✅</g-emoji> Goals: Dive deeper into this amazing world of IT</li>
+I build and run the platforms that let product teams ship quickly and safely: cloud infrastructure defined as code, Kubernetes, and delivery pipelines that make the right way the easy way. I started as a Python back-end developer, so I approach the platform from the side of the people who use it.
 
-</ul>
- 
-<!--<div>
- 
-![Snake animation](https://github.com/fabricius1/fabricius1/blob/output/github-contribution-grid-snake.svg)
-</div>  -->
+#### What I focus on
 
-<br>
+- **Cloud infrastructure as code:** reproducible, reviewable environments on AWS, Azure and GCP with Terraform and Ansible
+- **Kubernetes & containers:** cluster setup, Helm-packaged workloads, and Docker-based local environments that match production
+- **CI/CD & developer experience:** pipelines in GitHub Actions, GitLab CI and Jenkins with fast feedback and safe defaults
+- **Observability & reliability:** metrics, logs and alerts with Prometheus, Grafana and the Elastic stack
+- **Back-end engineering:** Python and Django services designed to be operated, not just deployed
 
-<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+#### Toolbox
 
+| | |
+|---|---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **IaC & config** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) |
+| **Containers** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
+| **Linux & networking** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Back-end** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=typecript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
--->
+#### How I work
 
-<p align="left">
-<img  alt="Django" width="30px" src="icons/django.png" />
-<img  alt="Django" width="30px" src="icons/mongo.png" />
-<img  alt="Django" width="30px" src="icons/python.png" />
-<img  alt="Terminal" width="30px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
-<img  alt="ubuntu" width="35px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img  alt="redhat" width="35px" src="icons/redhat.png">
-<img  alt="debian" width="35px" src="icons/debian.png">
-<img  alt="centos" width="35px" src="https://img.icons8.com/color/48/000000/centos.png"/>
-<img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img  alt="HTML5" width="30px" src="icons/html.png">
-<img  alt="CSS3" width="30px" src="icons/css.png">
-<img  alt="JavaScript" width="30px" src="icons/jsicon.png">
-<img  alt="TypeScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img  alt="nginx" width="35px" src="https://img.icons8.com/color/48/000000/nginx.png"/>
-<img  alt="Git" width="35px" src="icons/git.png">
-<img  alt="GitHub" width="30px" src="https://img.icons8.com/stickers/100/000000/github.png"/>
-<img  alt="GitLab" width="30px" src="icons/gitlab.png">
-<img  alt="BitBucket" width="30px" src="icons/bitbucket.png">
-<img  alt="Vagrant" width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vagrant-an-open-source-software-product-for-building-and-maintaining-portable-virtual-software-logo-shadow-tal-revivo.png"/>
-<img  alt="Docker" width="30px" src="icons/docker.png">
-<img  alt="DockerCompose" width="30px" src="https://p1c2u.gallerycdn.vsassets.io/extensions/p1c2u/docker-compose/0.3.5/1565165856720/Microsoft.VisualStudio.Services.Icons.Default"/>
-<!-- <img  alt="portainer" width="100px" src="icons/portainer.png"> -->
-<!-- <img  alt="ngxproxy" width="30px" src="https://nginxproxymanager.com/icon.png"/> -->
-<img  alt="Ansible" width="30px" src="https://img.icons8.com/color/48/000000/ansible.png"/>
-<img  alt="Kubernetes" width="30px" src="icons/kub.png">
-<img  alt="Helm" width="30px" src="icons/helm.png">
-<img  alt="AWS" width="35px" src="icons/aws.png">
-<img  alt="GCP" width="30px" src="icons/google.png" />
-<img  alt="Azure" width="30px" src="icons/azure.png"/>
-<!-- <img  alt="DO" width="25px" src="icons/digitalocean.png"/> -->
-<img  alt="Terraform" width="30px" src="icons/terraform.png"/>
-<!-- <img  alt="Pulumi" width="100px" src="icons/pulumi.svg"/> -->
-<img  alt="Jenkins" width="35px" src="icons/jenkins.png">
-<img  alt="gilap-cicd" width="35px" src="icons/runner.png">
-<!-- <img  alt="heroku" width="100px" src="icons/heroku.png"/> -->
-<!-- <img  alt="DevOps" width="35px" src="https://img.icons8.com/color/48/000000/infinity-large.png"/> -->
-<!-- <img  alt="JFrog" width="45px" src="icons/jfrog.png"/> -->
-<img  alt="elasticsearch" width="35px" src="icons/elastic.png"/>
-<img  alt="Prometheus" width="35px" src="icons/prometheus.png"/>
-<img  alt="Grafana" width="30px" src="icons/grafana.png"/>
-<!-- <img  alt="loki" width="30px" src="icons/loki.png"/> -->
-<!-- <img  alt="DataDog" width="35px" src="https://www.drupal.org/files/datadog-logo-purple.png"/> -->
-<!-- <img  alt="ArgoCD" width="35px" src="icons/argo.png"/> -->
-<!-- <img  alt="FluxCD" width="35px" src="icons/flux.png"> -->
-<!-- <img  alt="Vault" width="30px" src="https://cdn.worldvectorlogo.com/logos/vault-1.svg"/> -->
-<!-- <img  alt="gitcrypt" width="100px" src="icons/git-secret-big.png"/>
-<img  alt="K10" width="30px" src="https://www.kasten.io/hubfs/Kasten_January2020/Images/kasten-logo-stacked.svg"/>
-<img  alt="harness" width="30px" src="icons/harness.png"/>
-<img  alt="werf" width="30px" src="icons/werf.png"/>
-<img  alt="tekton" width="30px" src="icons/tekton.png"/> -->
-<!-- <img  alt="garden-io" width="30px" src="icons/garden.png"/> -->
-<p>
+- **Everything as code, everything reviewed.** If it isn't in Git, it doesn't exist.
+- **Paved roads over gatekeeping.** Good defaults and templates beat long wiki pages.
+- **You build it, you can run it.** Observability and runbooks ship with the service.
+- **Boring technology, on purpose.** Choose the simplest thing the team can operate at 3 a.m.
 
+#### Connect
 
-<h2> Connect with me </h2>
-
-<a href = 'https://www.linkedin.com/in/sahnoun-youssef/'> <img width = '32px' align= 'left' margin="10px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
-<a href = 'https://github.com/SahnounYusuf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
-
-<br>
-<h2>⚡ GitHub Stats</h2>
-<!-- [![SahnounYusuf's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahnounYusuf)](https://git.io/praveenscience) -->
-
-<a href="/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SahnounYusuf&show_icons=true&theme=dark&card_width=300" />
-</a>
-<!-- <a href="/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahnounYusuf&langs_count=8&theme=dark&hide_progress=true&card_width=300" />
-</a> -->
-
-<a href= "/">
- <img height=200 padding-right="center" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahnounYusuf&theme=dark&card_width=320"/>
-</a>
-
-  
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahnoun--youssef-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahnoun-youssef/)
